@@ -1,5 +1,5 @@
 {
-	"file": "https://drive.google.com/file/d/1J3ZafXVKOd2XrxcmRltwBQglL78ei9d1/view?usp=sharing",
+	"file": "https://drive.google.com/file/d/1J3ZafXVKOd2XrxcmRltwBQglL78ei9d1",
 	"name": "Test",
 	"header": 0,
 	"separator": ",",
@@ -8,6 +8,6 @@
 		{ "type": "id", "index": 0, "name": "ID" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 3 }
+		{ "format": "binary", "start": 1, "end": 7 }
 	]
 }
